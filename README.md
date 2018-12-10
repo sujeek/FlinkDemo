@@ -1,2 +1,4 @@
 # FlinkDemo
-流式数据处理Demo练习
+Apache Flink® - 基于数据流的有状态计算
+
+## 官方文档 https://doc.flink-china.org/doc/index.html
